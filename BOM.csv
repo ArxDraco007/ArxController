@@ -29,7 +29,7 @@
 "U5","1","AMS1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2","Robu.in","https://robu.in/product/ams1117-3-3-slkor-800ma-70db120hz-fixed-3-3v-positive-electrode-18v-sot-223-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/"
 "U6","1","PCM5102APWR","TSSOP-20","Robu.in","https://robu.in/product/pcm5102apwr-texas-instruments-digital-to-analogue-converter-32-bit-384-ksps-i2s-3v-to-3-6v-tssop-20-pins/"
 "U7","1","TPA2012D2","QFN-16","LCSC","https://www.lcsc.com/search?q=TPA2012D2"
-"U8","1","ILI9341 TFT 2.4/2.8\" Display Module","SPI 240x320","LCSC","https://www.lcsc.com/search?q=ILI9341+2.8+SPI"
+"U8","1","ILI9341 TFT 2.4 Display Module","SPI 240x320","LCSC","https://www.lcsc.com/search?q=ILI9341+2.8+SPI"
 "U9","1","MAX17048G+T10","SOT-23-6 (USOP-8)","LCSC","https://www.lcsc.com/search?q=MAX17048"
 "U10","1","XC6220 LDO","SOT-23-5","LCSC","https://www.lcsc.com/search?q=XC6220"
 "-","1","microSD Card Slot (Push-Push)","SMD microSD Socket","Robu.in","https://robu.in/product/micro-sd-card-tf-card-memory-card-socket-push-push-type-smd/"
