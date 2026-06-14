@@ -21,7 +21,6 @@ Firmware -
 Plug in the ESP32-S3 via USB-C, select Board "ESP32S3 Dev Module" and the correct Port, hold BOOT while plugging in (or while pressing RESET) if it doesn't auto-detect, then click Upload to flash it, and finally press RESET or replug to run the new firmware.
 
 ## BOM
-# BOM - Controller PCB (India Sourcing)
 
 | Reference | Qty | Value | Footprint | Source | Buy Link |
 |---|---|---|---|---|---|
@@ -60,3 +59,6 @@ Plug in the ESP32-S3 via USB-C, select Board "ESP32S3 Dev Module" and the correc
 | U10 | 1 | XC6220 LDO | SOT-23-5 | LCSC | [Link](https://www.lcsc.com/search?q=XC6220) |
 | - | 1 | microSD Card Slot (Push-Push) | SMD microSD Socket | Robu.in | [Link](https://robu.in/product/micro-sd-card-tf-card-memory-card-socket-push-push-type-smd/) |
 | - | 1 | USB-C Connector (16-pin) | USB_C_Receptacle_USB2.0_16P | Robu.in | [Link](https://robu.in/product/usb-type-c-16-pin-female-connector-smd/) |
+| HW1-HW4   |   4 | M3 × 22mm Machine Screw | Mechanical:MountingHardware | element14 | [Link](https://in.element14.com/tr-fastenings/tr00008755-000/screw-flat-csk-head-sltd-m3-22mm/dp/4156380) |
+| HW5-HW8   |   4 | M3 Hex Nut              | Mechanical:MountingHardware | FlyRobo | [Link](https://www.flyrobo.in/m3-ss-hex-nut-10pcs?srsltid=AfmBOopC71qpsOIubiWPyQa1-qcC8mzI4XCSzNWDzo-gBculU_eEorxn)              |
+
