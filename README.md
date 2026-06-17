@@ -8,11 +8,16 @@ Making your own controller is absolutely amazing! The process gives you a comple
 
 ## PICTURES-
 <img width="1054" height="706" alt="image" src="https://github.com/user-attachments/assets/90c7a90e-b1f2-49ba-8843-6a940ddd1f84" />
-<img width="1141" height="782" alt="image" src="https://github.com/user-attachments/assets/09f2d95d-872c-415f-a930-7705b119cab9" />
-<img width="1920" height="1080" alt="controller" src="https://github.com/user-attachments/assets/52e48dbd-b1a0-403b-b2e4-0fc79b9d9964" />
+<img width="1087" height="616" alt="Screenshot 2026-06-17 020929" src="https://github.com/user-attachments/assets/732e3c84-bc15-41c1-9399-c8502dd8671b" />
+<img width="1920" height="1080" alt="ArxControllerV2sleek" src="https://github.com/user-attachments/assets/93124e06-698f-496c-8e20-1200c2393029" />
+<img width="1920" height="1080" alt="ArxControllerV2Desert" src="https://github.com/user-attachments/assets/97a6d7c1-cccc-406c-bad7-6754e3e4771c" />
+<img width="1920" height="1080" alt="ArxControllerV2" src="https://github.com/user-attachments/assets/8787cc5d-31f6-48b3-98a7-589957aa44e5" />
+
+
 
 ## Zine - 
-<img width="1304" height="1999" alt="zine" src="https://github.com/user-attachments/assets/31e19667-1f4c-46d8-bcbc-8301d5fd74c1" />
+<img width="1304" height="1999" alt="zine (3)" src="https://github.com/user-attachments/assets/00382653-5319-49b8-b4a7-3367fe6a7bdc" />
+
 
 ## Build Instructions -
 Soldering -
