@@ -16,7 +16,7 @@ Making your own controller is absolutely amazing! The process gives you a comple
 
 
 ## Zine - 
-<img width="1304" height="1999" alt="zine (3)" src="https://github.com/user-attachments/assets/00382653-5319-49b8-b4a7-3367fe6a7bdc" />
+<img width="1304" height="1999" alt="zine (4)" src="https://github.com/user-attachments/assets/e235f224-852c-4b6c-9d82-8afa8839f01d" />
 
 
 ## Build Instructions -
