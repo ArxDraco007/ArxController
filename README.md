@@ -66,4 +66,4 @@ Plug in the ESP32-S3 via USB-C, select Board "ESP32S3 Dev Module" and the correc
 | - | 1 | USB-C Connector (16-pin) | USB_C_Receptacle_USB2.0_16P | Robu.in | [Link](https://robu.in/product/usb-type-c-16-pin-female-connector-smd/) |
 | HW1-HW4   |   4 | M3 × 22mm Machine Screw | Mechanical:MountingHardware | element14 | [Link](https://in.element14.com/tr-fastenings/tr00008755-000/screw-flat-csk-head-sltd-m3-22mm/dp/4156380) |
 | HW5-HW8   |   4 | M3 Hex Nut              | Mechanical:MountingHardware | FlyRobo | [Link](https://www.flyrobo.in/m3-ss-hex-nut-10pcs?srsltid=AfmBOopC71qpsOIubiWPyQa1-qcC8mzI4XCSzNWDzo-gBculU_eEorxn)              |
-
+| FNIRSI HS-02 | 1 | Soldering | Soldering Iron | FNIRSI | [Link]("https://rees52.com/products/fnirsi-hs-01-intelligent-soldering-iron-hs-01-intelligent-temperature-controlled-soldering-iron-hs-01-automatic-sleep-mode-soldering-station-with-adjustable-temperature-for-diy-electronics-projects-black?variant=46392066769063")
